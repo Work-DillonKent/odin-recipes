@@ -1,1 +1,2 @@
 # odin-recipes
+This project i will be creating a website with links to a few recipes. It will help me to practice setting in stone my basics of using the terminal, along with using html elements as well. The usage of both absolute and relative links will reinforce my understanding.
